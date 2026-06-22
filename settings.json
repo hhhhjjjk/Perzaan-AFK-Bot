@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "opsmp96.aternos.me",
-    "port" 41413,
+    "port": 41413,
     "version": "26.1.2"
   },
   "position": {
